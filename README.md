@@ -5,22 +5,34 @@ Example Directory Structure:
 Before running the script:
 
 /picturesByFolder/
+
   ├── IMG_20231110.jpg
+  
   ├── DSC_20231109.png
+  
   ├── notes.txt
+  
   ├── vacation_photo.jpg
 
 
 After running the script:
 
 /picturesByFolder/
+
   ├── 20231110/
+  
   │     └── IMG_20231110.jpg
+
   ├── 20231109/
+  
   │     └── DSC_20231109.png
+  
   ├── zero/
+  
         ├── notes.txt
+        
         └── vacation_photo.jpg
+        
 
 Prerequisites:
 Python 3.x
