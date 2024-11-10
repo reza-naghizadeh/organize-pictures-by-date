@@ -18,19 +18,12 @@ Before running the script:
 After running the script:
 
 /picturesByFolder/
-
-  ├── 20231110/
-  
-  │     └── IMG_20231110.jpg
-
-  ├── 20231109/
-  
-  │     └── DSC_20231109.png
-  
-  ├── zero/
-  
+    ├── 20231110/
+    │     └── IMG_20231110.jpg
+    ├── 20231109/
+    │     └── DSC_20231109.png
+    ├── zero/
         ├── notes.txt
-        
         └── vacation_photo.jpg
         
 
