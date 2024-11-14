@@ -1,6 +1,6 @@
-# Organize Files by Date
+# Organize Pictures by Date
 
-This repository contains a Python script and standalone apps for macOS and Windows to help you organize your files by date, with additional options for folder management.
+This repository contains a Python script and standalone apps for macOS and Windows to help you organize your pictures by date, with additional options for folder management.
 
 ## How to Use
 
