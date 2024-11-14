@@ -1,7 +1,3 @@
-Here's an updated version of your README, incorporating the new options and app features:
-
----
-
 # Organize Files by Date
 
 This repository contains a Python script and standalone apps for macOS and Windows to help you organize your files by date, with additional options for folder management.
