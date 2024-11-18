@@ -1,17 +1,13 @@
-Here's an updated version of your README, incorporating the new options and app features:
+# Organize Pictures by Date
 
----
-
-# Organize Files by Date
-
-This repository contains a Python script and standalone apps for macOS and Windows to help you organize your files by date, with additional options for folder management.
+This repository contains a Python script and standalone apps for macOS and Windows to help you organize your pictures by date, with additional options for folder management.
 
 ## How to Use
 
 ### macOS and Windows Apps
 
 1. **Download the App**  
-   - [Download for macOS](#)  
+   - [Download for macOS](https://github.com/user-attachments/files/17757203/PicOrganizer.zip)  
    - [Download for Windows](#)
 
 2. **Run the App**  
