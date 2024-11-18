@@ -8,7 +8,7 @@ This repository contains a Python script and standalone apps for macOS and Windo
 
 1. **Download the App**  
    - [Download for macOS](https://github.com/user-attachments/files/17798006/PicOrganizer.zip)
-   - [Download for Windows](https://github.com/user-attachments/files/17794798/PicOrganizerWin.zip)
+   - [Download for Windows](https://github.com/user-attachments/files/17798626/PicOrganizerWin.zip)
 
 2. **Run the App**  
    - Follow the prompts to select your desired option:
