@@ -7,14 +7,14 @@ This repository contains a Python script and standalone apps for macOS and Windo
 ### macOS and Windows Apps
 
 1. **Download the App**  
-   - [Download for macOS](https://github.com/user-attachments/files/17757203/PicOrganizer.zip)  
+   - [Download for macOS](https://github.com/user-attachments/files/17798006/PicOrganizer.zip)
    - [Download for Windows](https://github.com/user-attachments/files/17794798/PicOrganizerWin.zip)
 
 2. **Run the App**  
    - Follow the prompts to select your desired option:
      - **Flatten Folders Structure**: Extracts all pictures from subfolders into the main folder and deletes the original folders.
      - **Organize Files**: Creates new folders based on the picture's date and moves the files into the appropriate folders.
-     - **Rename Duplicates**: If enabled, duplicate pictures will be replaced. If disabled, duplicates will be renamed to avoid overwriting.
+     - **Rename Duplicates**: If disabled, duplicate pictures will be replaced. If enabled, duplicates will be renamed to avoid overwriting.
    
 ---
 
