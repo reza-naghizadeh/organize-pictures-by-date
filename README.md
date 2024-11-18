@@ -14,7 +14,7 @@ This repository contains a Python script and standalone apps for macOS and Windo
    - Follow the prompts to select your desired option:
      - **Flatten Folders Structure**: Extracts all pictures from subfolders into the main folder and deletes the original folders.
      - **Organize Files**: Creates new folders based on the picture's date and moves the files into the appropriate folders.
-     - **Replace Duplicates**: If enabled, duplicate pictures will be replaced. If disabled, duplicates will be renamed to avoid overwriting.
+     - **Rename Duplicates**: If enabled, duplicate pictures will be replaced. If disabled, duplicates will be renamed to avoid overwriting.
    
 ---
 
