@@ -227,7 +227,7 @@ organize_checkbox.grid(row=2, column=1, padx=10, pady=5, sticky='w')
 
 # Checkbox for replacing duplicates
 replace_var = tk.IntVar(value=0)
-replace_checkbox = tk.Checkbutton(root, text="Replace Duplicates", variable=replace_var)
+replace_checkbox = tk.Checkbutton(root, text="Rename Duplicates", variable=replace_var)
 replace_checkbox.grid(row=3, column=1, padx=10, pady=5, sticky='w')
 
 # Progress bar
